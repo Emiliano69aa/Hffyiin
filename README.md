@@ -1,2 +1,1 @@
-# Hffyiin
-Jhh
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo=" https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png " group-title="RECOMENDADOS",Azteca Uno (HD) https://live-ftc-sa-west-1.media.starott.com/clt2/va01/starplus/event/2023/07/15/River_Plate_vs_Estudiante_20230715_1689452158020/ctr-all-complete.m3u8
